@@ -1,4 +1,4 @@
-# Smart-Anti-Theft-System
+# IoT-Project
 
 ## Group Members/Collaborators:
 
