@@ -29,11 +29,11 @@ python3 manage.py runserver
 
 ### Table of Contents:
 
-#### src 
+#### - assignment 2 
 
 The main src folder which containts both the project folder and the app folder. The folder also includes a file called manage.py which is a command-line utility that lets us interact with this project. (ex. running the app)
 
-#### assignment 2 
+#### - assignment 2 
 
 The project folder that contains a collection of settings including database configuration, Django-specific options, and application-specific settings. The folders included in the project folder are the following:
 
