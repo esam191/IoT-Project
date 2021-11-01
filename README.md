@@ -37,13 +37,14 @@ The main src folder which containts both the project folder and the app folder. 
 
 The project folder that contains a collection of settings including database configuration, Django-specific options, and application-specific settings. The folders included in the project folder are the following:
 
+```
 assignment 2/
     __init__.py
     settings.py
     urls.py
     asgi.py
     wsgi.py
-
+```
 #### assignment 2/smartapp
 
 The app folder was created to run the web application for our project and display the database records using rest services. The folders included in the app folder are the following:
