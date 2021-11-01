@@ -8,7 +8,7 @@
 
 ## Demo
 
-![Alt text](/app.png?raw=true "demo")
+![Alt text](/app.JPG?raw=true "demo")
 
 ### Table of Contents:
 
