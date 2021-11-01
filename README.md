@@ -49,6 +49,8 @@ assignment 2/
 
 The app folder was created to run the web application for our project and display the database records using rest services. The folders included in the app folder are the following:
 
+
+```
 smartfan/
     __init__.py
     admin.py
@@ -62,3 +64,4 @@ smartfan/
     views.py
     serializers.py
     urls.py
+```
