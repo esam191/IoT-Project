@@ -6,6 +6,23 @@
 2. Esam Uddin - 100711116
 3. Mihirkumar Patel - 100702168
 
+## Run App
+
+Installation
+
+```
+pip install django
+```
+```
+pip install djangorestframework
+```
+
+Run App
+
+```
+python3 manage.py runserver
+```
+
 ## Demo
 
 ![Alt text](/app.JPG?raw=true "demo")
