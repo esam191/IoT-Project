@@ -9,6 +9,7 @@
 ## Run App 
 
 - https://projectgroup11.ml:1880/ui
+- https://drive.google.com/drive/folders/1IF6BFbkohoR_DjH_GxfuJyf8qd4SHU88?usp=sharing
 
 ## Demo
 
