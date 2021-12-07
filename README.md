@@ -6,7 +6,9 @@
 2. Esam Uddin - 100711116
 3. Mihirkumar Patel - 100702168
 
-## Run App
+## Run App 
+
+- https://projectgroup11.ml:1880/ui
 
 Installation
 
@@ -65,3 +67,7 @@ smartfan/
     serializers.py
     urls.py
 ```
+
+
+
+
