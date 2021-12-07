@@ -10,7 +10,7 @@
 
 - https://projectgroup11.ml:1880/ui
 
-Installation
+Installation (assignment 2)
 
 ```
 pip install django
@@ -27,7 +27,7 @@ python manage.py runserver
 
 ## Demo
 
-![Alt text](/app.JPG?raw=true "demo")
+![Alt text](/App.png?raw=true "demo")
 
 ### Table of Contents:
 
