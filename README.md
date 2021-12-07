@@ -27,7 +27,7 @@ python manage.py runserver
 
 ## Demo
 
-![Alt text](/App.png?raw=true "demo")
+![Alt text](/App.PNG?raw=true "demo")
 
 ### Table of Contents:
 
