@@ -10,6 +10,10 @@
 
 - https://projectgroup11.ml:1880/ui
 
+## Demo
+
+![Alt text](/App.PNG?raw=true "demo")
+
 Installation (assignment 2)
 
 ```
@@ -25,11 +29,15 @@ Run App
 python manage.py runserver
 ```
 
-## Demo
-
-![Alt text](/App.PNG?raw=true "demo")
-
 ### Table of Contents:
+
+### - Final Project Files
+
+- Arduino Code
+- Architectural Design Decisions.pdf
+- Deployment Design Decisions.pdf
+- Project Design and Architecure.pdf
+- Demo: App.PNG
 
 #### - assignment2 
 
